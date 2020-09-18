@@ -1,0 +1,94 @@
+html,body{
+   background-color: lightskyblue;
+    padding: 0;
+    margin: 0;
+    background-image: url(img/pngtree-pure-color-watercolor-graffiti-gradient-background-board-design-board-design-image_66713.jpg);
+    
+        
+    
+}
+    
+    .theader{
+    font-family: 'Architects Daughter', cursive;
+    background-repeat: no-repeat;
+    background-color: black;
+    /*font-family: 'Anton', sans-serif;*/
+    overflow: hidden;
+}
+.gall{
+    font-family: fantasy;
+    color: white;
+    text-decoration: underline;
+    background-color: black;
+    padding: 30px;
+    margin: 30px;
+}
+.logo{
+    height: 90px;
+    text-transform: uppercase;
+    text-align: center;
+}
+.log-in{
+    width: 300px;
+    font-size: 50px;
+    color: gold;
+    float: right;
+}
+.menu{
+    color:red;
+    font-size: 40px;
+    padding: 15px;
+    display: inline-block;
+    text-decoration: none;
+}
+.mbox{
+    max-width: 800px;
+    margin: auto;
+}
+.box{
+    background-color: white;
+    padding: 30px;
+    margin: 30px;
+    font-family: cursive;
+    
+}
+
+.img{
+    width: 100%;
+}
+.a1{
+    color: black;
+    background-color: lightcoral;
+    padding: 10px;
+    text-decoration: none;
+    display: inline-block;
+    
+    
+    
+}
+.pic{
+    display: inline-block;
+    background-color: rgba(0, 0, 0, 0.65);
+    border: 2px solid black;
+    border-radius: 30px;
+    padding: 20px;
+    width: auto;
+    
+}
+.bter{
+    color: white;
+    background-color: black;
+    padding: 20px;
+    text-decoration: none;
+    text-align: center;
+    
+    
+}
+.icon {
+    overflow: hidden;
+    width: 150px;
+    font-size: 30px;
+    background-color: rgba(0, 0, 0, 0.56);
+    border-radius: 10px;
+    margin: 2px;
+}
